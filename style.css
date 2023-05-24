@@ -1,0 +1,49 @@
+.jumbotron {
+  text-align: center;
+  align-content: center;
+}
+button{
+   font-family: 'Overpass', sans-serif;
+    font-size: 110%;
+    color:#9f17e8;
+    width: 150px;
+    height: 50px;
+    border: none;
+    
+    border-radius: 3px 3px 3px 3px;
+    -moz-border-radius: 3px 3px 3px 3px;
+    -webkit-border-radius: 3px 3px 3px 3px;
+    
+    background-color: #dfcdc3;
+    
+    margin-top: 10px;
+}
+button:hover {
+    background-color: tomato;
+    color:#dfcdc3;
+}
+td {
+  height:150px;
+  width:150px;
+  text-align: center;
+  border: 5px solid #4d096d;
+  font-size: 100px;
+  background-color: #00ffd5;
+  color: ivory;
+}
+
+table {
+  margin: auto auto;
+}
+
+body{
+  background-color: #1F618D;
+}
+h1{
+  
+}
+
+p{
+  
+}
+
